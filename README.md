@@ -2,6 +2,15 @@
 > nbdev tutorial. 
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
+    The autoreload extension is already loaded. To reload it, use:
+      %reload_ext autoreload
+
+
 Enjoy it!
 
 ## Install
